@@ -1,2 +1,3 @@
- this is strings file
+applying cherry pick 
+this is strings file
 updating file 
