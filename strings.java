@@ -6,4 +6,4 @@ this is strings file
 updating file 
 addinf lines to check fetch
 checking git pull 
-
+merge second checking
