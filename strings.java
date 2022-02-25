@@ -1,2 +1,3 @@
- this is strings file
+merge with master using cherrypick 
+this is strings file
 updating file 
